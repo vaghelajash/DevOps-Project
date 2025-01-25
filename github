@@ -1,0 +1,9 @@
+Invalid macro definition.
+cd DevOps-Bankapp
+git init
+git add .
+git commit -m "Initial commit"  # Replace with your own commit message
+git commit -m "Initial commit" 
+git remote add origin https://github.com/vaghelajash/DevOps-Project.git
+git push -u origin master  
+doskey /history > github push.txt
